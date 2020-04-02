@@ -1,0 +1,7 @@
+/*
+adding border box and padding to article
+*/
+article {
+border: 1px solid black;
+padding: 10px;
+}
